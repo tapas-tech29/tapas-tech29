@@ -127,19 +127,17 @@
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 📊 Superstore Sales Dashboard
-
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tapas-tech29/superstore-sales-dashboard)
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/superstore-sales-dashboard)
 
 **Tech:** Power BI • DAX • Power Query • Excel
 
 <br/>
 
-✅ Built an interactive Power BI dashboard
+✅ Built an interactive Business Intelligence Dashboard
 
 ✅ Created KPI cards for Sales, Profit, Orders & Quantity
 
@@ -171,7 +169,6 @@
 
 </td>
 </tr>
-
 </table>
 
 </div>
