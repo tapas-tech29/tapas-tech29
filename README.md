@@ -128,7 +128,7 @@
 
 | 🏅 Certificate | 🏢 Issuer | 📅 Year |
 |:---|:---|:---:|
-| Data Analytics with Python | Skill Circle | 2025 |
+| Data Analytics with Python | Skill Circle | 2026 |
 | Data Science Essentials with Python *(Verified Badge)* | Cisco Networking Academy | Feb 2026 |
 | Yuva AI for All | NASSCOM FutureSkills / INDIAai (MeitY) | Feb 2026 |
 
