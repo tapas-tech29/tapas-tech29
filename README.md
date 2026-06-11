@@ -82,101 +82,43 @@
 </div>
 
 ---
-
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 Loan Approval Analysis Dashboard
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/loan-approval-analysis)
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Power BI
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="opacity:0.3"/>
-
-✅ End-to-end **EDA & data cleaning** on loan applicant data  
-✅ Handled missing values, outliers & type conversions  
-✅ **Interactive Power BI dashboard** — KPI cards, slicers, trend charts  
-✅ Statistical analysis to identify key credit approval drivers  
-
-</td>
-<td width="50%" valign="top">
-
-### 🍕 Pizza Hut Sales Analysis
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/tapas-tech29/pizza-hut-sales-analysis)
-
-**Tech:** SQL • MySQL • JOINs • Window Functions • Aggregations
-
-<br/>
-
-✅ Queried **4 relational tables** with advanced SQL  
-✅ Used JOINs, GROUP BY, subqueries & window functions  
-✅ Uncovered **top SKUs**, peak hours & ordering patterns  
-✅ Business insights for menu & pricing decisions  
-
-</td>
-</tr>
-✅ Queried **4 relational tables** with advanced SQL
-✅ Used JOINs, GROUP BY, subqueries & window functions
-✅ Uncovered **top SKUs**, peak hours & ordering patterns
-✅ Business insights for menu & pricing decisions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 📊 Superstore Sales Dashboard
 [![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/superstore-sales-dashboard)
 
 **Tech:** Power BI • DAX • Power Query • Excel
 
-<br/>
+✅ Built an interactive Business Intelligence Dashboard  
+✅ Created KPI cards for Sales, Profit, Orders & Quantity  
+✅ Designed dynamic filters & slicers  
+✅ Applied DAX calculations and Power Query transformations  
+✅ Analyzed category-wise and regional performance  
+✅ Generated actionable business insights  
 
-✅ Built an interactive Business Intelligence Dashboard
+---
 
-✅ Created KPI cards for Sales, Profit, Orders & Quantity
+### 📋 Loan Approval Analysis Dashboard
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/loan-approval-analysis)
 
-✅ Designed dynamic filters & slicers
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Power BI
 
-✅ Applied DAX calculations and Power Query transformations
+✅ End-to-end EDA & data cleaning  
+✅ Handled missing values, outliers & type conversions  
+✅ Interactive Power BI dashboard with KPI cards & slicers  
+✅ Statistical analysis to identify key credit approval drivers  
 
-✅ Analyzed category-wise and regional performance
+---
 
-✅ Generated actionable business insights
+### 🍕 Pizza Hut Sales Analysis
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/pizza-hut-sales-analysis)
 
-</td>
+**Tech:** SQL • MySQL • JOINs • Window Functions • Aggregations
 
-<td width="50%" valign="top">
-
-### 📈 Dashboard Highlights
-
-🏆 Top Product Analysis
-
-📊 Sales & Profit Tracking
-
-🌍 Regional Performance Analysis
-
-👥 Customer Segment Insights
-
-📈 Trend Analysis
-
-⚡ Data-Driven Decision Making
-
-</td>
-</tr>
-</table>
-
-</div>
-
-</table>
-
-</div>
-
+✅ Queried 4 relational tables with advanced SQL  
+✅ Used JOINs, GROUP BY, subqueries & window functions  
+✅ Uncovered top products, peak hours & ordering patterns  
+✅ Generated business insights for decision-making
 ---
 
 ## 📜 Certifications
