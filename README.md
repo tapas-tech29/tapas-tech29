@@ -119,6 +119,7 @@
 ✅ Used JOINs, GROUP BY, subqueries & window functions  
 ✅ Uncovered top products, peak hours & ordering patterns  
 ✅ Generated business insights for decision-making
+
 ---
 
 ## 📜 Certifications
