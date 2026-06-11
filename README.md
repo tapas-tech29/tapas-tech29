@@ -120,6 +120,62 @@
 
 </td>
 </tr>
+✅ Queried **4 relational tables** with advanced SQL
+✅ Used JOINs, GROUP BY, subqueries & window functions
+✅ Uncovered **top SKUs**, peak hours & ordering patterns
+✅ Business insights for menu & pricing decisions
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Superstore Sales Dashboard
+
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tapas-tech29/superstore-sales-dashboard)
+
+**Tech:** Power BI • DAX • Power Query • Excel
+
+<br/>
+
+✅ Built an interactive Power BI dashboard
+
+✅ Created KPI cards for Sales, Profit, Orders & Quantity
+
+✅ Designed dynamic filters & slicers
+
+✅ Applied DAX calculations and Power Query transformations
+
+✅ Analyzed category-wise and regional performance
+
+✅ Generated actionable business insights
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Dashboard Highlights
+
+🏆 Top Product Analysis
+
+📊 Sales & Profit Tracking
+
+🌍 Regional Performance Analysis
+
+👥 Customer Segment Insights
+
+📈 Trend Analysis
+
+⚡ Data-Driven Decision Making
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
 </table>
 
 </div>
