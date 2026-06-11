@@ -92,7 +92,7 @@
 <td width="50%" valign="top">
 
 ### 📋 Loan Approval Analysis Dashboard
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29)
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/loan-approval-analysis)
 
 **Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Power BI
 
