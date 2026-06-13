@@ -85,7 +85,7 @@
 ## 🚀 Featured Projects
 ### 🎬 Netflix Content Analysis Dashboard
 
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Netflix-Content-Analysis)
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/tapas-tech29/Netflix-Content-Analysis-PowerBI)
 
 **Tech:** Power BI • DAX • Power Query • CSV
 
