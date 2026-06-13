@@ -83,6 +83,17 @@
 
 ---
 ## 🚀 Featured Projects
+### 🎬 Netflix Content Analysis Dashboard
+
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Netflix-Content-Analysis)
+
+**Tech:** Power BI • DAX • Power Query • CSV
+
+✅ Interactive Power BI Dashboard  
+✅ Netflix Content Growth Analysis  
+✅ Movies vs TV Shows Comparison  
+✅ Genre, Rating & Country Analysis  
+✅ Business Insights Through Data Visualization
 
 ### 📊 Superstore Sales Dashboard
 [![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/superstore-sales-dashboard)
