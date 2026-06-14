@@ -98,7 +98,7 @@
 ---
 ### 🍽️ Zomato Restaurant Analytics Dashboard
 
-[![Repo](https://img.shields.io/badge/View_Project-E23744?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tapas-tech29/Zomato-Restaurant-Analytics-Dashboard)
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tapas-tech29/Zomato-Restaurant-Analytics-Dashboard)
 
 **Tech:** Power BI • DAX • Power Query • CSV
 
