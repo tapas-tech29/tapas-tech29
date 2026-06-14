@@ -95,8 +95,22 @@
 ✅ Genre, Rating & Country Analysis  
 ✅ Business Insights Through Data Visualization
 
+---
+### 🍽️ Zomato Restaurant Analytics Dashboard
+
+[![Repo](https://img.shields.io/badge/View_Project-E23744?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tapas-tech29/Zomato-Restaurant-Analytics-Dashboard)
+
+**Tech:** Power BI • DAX • Power Query • CSV
+
+✅ Interactive Power BI Dashboard
+✅ Multi-City Restaurant Performance Analysis
+✅ Cuisine & Customer Rating Insights
+✅ Cost vs Rating Intelligence Analysis
+✅ Online Ordering & Customer Engagement Trends
+
+---
 ### 📊 Superstore Sales Dashboard
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/superstore-sales-dashboard)
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Zomato-Restaurant-Analytics-Dashboard-Power-Bi)
 
 **Tech:** Power BI • DAX • Power Query • Excel
 
