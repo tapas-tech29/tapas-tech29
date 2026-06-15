@@ -83,6 +83,19 @@
 
 ---
 ## 🚀 Featured Projects
+### 🎵 Spotify Music Analytics Dashboard
+
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Spotify-Music-Analytics-Dashboard)
+
+**Tech:** Power BI • DAX • Power Query • CSV
+
+✅ Interactive Power BI Dashboard
+✅ Spotify Music Trends Analysis
+✅ Artist & Song Popularity Insights
+✅ Explicit vs Non-Explicit Content Analysis
+✅ Business Insights Through Data Visualization
+
+---
 ### 🎬 Netflix Content Analysis Dashboard
 
 [![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/tapas-tech29/Netflix-Content-Analysis-PowerBI)
