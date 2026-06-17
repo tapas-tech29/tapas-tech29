@@ -85,7 +85,7 @@
 
 ---
 ## 🚀 Featured Projects
----
+
 ### 🌱⚡ US EV Adoption & Renewable Energy Dashboard
 [![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/tapas-tech29/-US-EV-Adoption-Renewable-Energy-Dashboard)
 
