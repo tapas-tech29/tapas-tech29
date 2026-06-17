@@ -84,8 +84,7 @@
 ---
 ## 🚀 Featured Projects
 ### 🌱⚡ US EV Adoption & Renewable Energy Dashboard
-
-[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]( https://github.com/tapas-tech29/-US-EV-Adoption-Renewable-Energy-Dashboard)
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/tapas-tech29/-US-EV-Adoption-Renewable-Energy-Dashboard)
 
 **Tech:** Power BI • DAX • Power Query • Data Visualization
 
