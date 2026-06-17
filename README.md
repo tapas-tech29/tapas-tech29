@@ -83,6 +83,18 @@
 
 ---
 ## 🚀 Featured Projects
+### 🌱⚡ US EV Adoption & Renewable Energy Dashboard
+
+[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]( https://github.com/tapas-tech29/-US-EV-Adoption-Renewable-Energy-Dashboard)
+
+**Tech:** Power BI • DAX • Power Query • Data Visualization
+
+📊 Executive Summary Dashboard  
+🚗 EV Adoption Trends Across States  
+🌱 Renewable Energy Production Analysis  
+📈 Correlation Between EV Adoption & Renewable Energy  
+💡 Actionable Insights & Strategic Recommendations
+
 ### 🎵 Spotify Music Analytics Dashboard
 
 [![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Spotify-Music-Analytics-Dashboard)
