@@ -150,7 +150,18 @@
 ✅ Generated actionable business insights  
 
 ---
+### 📦 Courier Billing Audit & Logistics Cost Analysis Dashboard
+[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/tapas-tech29/Courier-Billing-Audit-Logistics-Cost-Analysis-Dashboard)
 
+**Tech:** Power BI • DAX • Power Query • Excel
+
+✅ Interactive Power BI Dashboard
+✅ Courier Invoice Billing Analysis
+✅ Overcharged vs Undercharged Detection
+✅ Delivery Zone Performance Insights
+✅ Logistics Cost Optimization
+
+---
 ### 📋 Loan Approval Analysis Dashboard
 [![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/loan-approval-analysis)
 
