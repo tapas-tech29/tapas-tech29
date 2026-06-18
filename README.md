@@ -84,108 +84,132 @@
 </div>
 
 ---
-## 🚀 Featured Projects
+ ## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌱⚡ US EV Adoption & Renewable Energy Dashboard
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/tapas-tech29/-US-EV-Adoption-Renewable-Energy-Dashboard)
+[![Repo](https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/-US-EV-Adoption-Renewable-Energy-Dashboard)
 
-**Tech:** Power BI • DAX • Power Query • Data Visualization
+**Stack:** `Power BI` `DAX` `Power Query`
 
-📊 Executive Summary Dashboard  
-🚗 EV Adoption Trends Across States  
-🌱 Renewable Energy Production Analysis  
-📈 Correlation Between EV Adoption & Renewable Energy  
-💡 Actionable Insights & Strategic Recommendations
+- 📊 Executive Summary Dashboard with KPI Cards
+- 🚗 EV Adoption Trends mapped across US States
+- 🌱 Renewable Energy Production deep-dive
+- 📈 Correlation: EV Growth vs Clean Energy Output
+- 💡 Strategic recommendations from data insights
 
----
+</td>
+<td width="50%" valign="top">
+
 ### 🎵 Spotify Music Analytics Dashboard
+[![Repo](https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Spotify-Music-Analytics-Dashboard)
 
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Spotify-Music-Analytics-Dashboard)
+**Stack:** `Power BI` `DAX` `Power Query` `CSV`
 
-**Tech:** Power BI • DAX • Power Query • CSV
+- 🎧 Artist & Song Popularity Trends
+- 🔥 Top Genres by Streams & Engagement
+- 🔞 Explicit vs Non-Explicit Content Analysis
+- 📆 Music release pattern intelligence
+- 💼 Business insights for label strategy
 
-✅ Interactive Power BI Dashboard
-✅ Spotify Music Trends Analysis
-✅ Artist & Song Popularity Insights
-✅ Explicit vs Non-Explicit Content Analysis
-✅ Business Insights Through Data Visualization
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
 ### 🎬 Netflix Content Analysis Dashboard
+[![Repo](https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Netflix-Content-Analysis-PowerBI)
 
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/tapas-tech29/Netflix-Content-Analysis-PowerBI)
+**Stack:** `Power BI` `DAX` `Power Query` `CSV`
 
-**Tech:** Power BI • DAX • Power Query • CSV
+- 📺 Movies vs TV Shows deep comparison
+- 🌍 Content production by country heatmap
+- 🎭 Genre, Rating & Audience segment analysis
+- 📅 Content growth timeline (year-over-year)
+- 🔍 Catalog strategy & content gap analysis
 
-✅ Interactive Power BI Dashboard  
-✅ Netflix Content Growth Analysis  
-✅ Movies vs TV Shows Comparison  
-✅ Genre, Rating & Country Analysis  
-✅ Business Insights Through Data Visualization
+</td>
+<td width="50%" valign="top">
 
----
 ### 🍽️ Zomato Restaurant Analytics Dashboard
+[![Repo](https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Zomato-Restaurant-Analytics-Dashboard-Power-Bi)
 
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tapas-tech29/Zomato-Restaurant-Analytics-Dashboard-Power-Bi)
+**Stack:** `Power BI` `DAX` `Power Query` `CSV`
 
-**Tech:** Power BI • DAX • Power Query • CSV
+- 🏙️ Multi-city restaurant performance benchmarking
+- ⭐ Cost vs Rating intelligence matrix
+- 🍜 Cuisine popularity & profitability analysis
+- 📱 Online ordering & customer engagement trends
+- 🎯 Location-based market opportunity mapping
 
-✅ Interactive Power BI Dashboard
-✅ Multi-City Restaurant Performance Analysis
-✅ Cuisine & Customer Rating Insights
-✅ Cost vs Rating Intelligence Analysis
-✅ Online Ordering & Customer Engagement Trends
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Superstore Sales BI Dashboard
+[![Repo](https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Zomato-Restaurant-Analytics-Dashboard-Power-Bi)
+
+**Stack:** `Power BI` `DAX` `Power Query` `Excel`
+
+- 💰 KPI cards: Sales, Profit, Orders & Quantity
+- 🗺️ Regional & category-wise performance drilldown
+- 🔄 Dynamic filters & interactive slicers
+- 📐 DAX measures & Power Query transformations
+- 📢 Actionable business recommendations
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Courier Billing Audit & Logistics Dashboard
+[![Repo](https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Courier-Billing-Audit-Logistics-Cost-Analysis-Dashboard)
+
+**Stack:** `Power BI` `DAX` `Power Query` `Excel`
+
+- 🔍 Invoice billing discrepancy detection
+- ⚠️ Overcharged vs Undercharged auto-flagging
+- 🗺️ Delivery zone performance comparison
+- 💸 Logistics cost optimization insights
+- 📋 Carrier billing audit trail
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 Loan Approval Analysis (Python + Power BI)
+[![Repo](https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/loan-approval-analysis)
+
+**Stack:** `Python` `Pandas` `Seaborn` `Power BI`
+
+- 🧹 End-to-end EDA: missing values, outliers, encoding
+- 📊 Interactive Power BI dashboard with KPI slicers
+- 📐 Statistical analysis of credit approval drivers
+- 🔎 Feature correlation & distribution analysis
+- 💡 Insights on income, CIBIL score & loan risk
+
+</td>
+<td width="50%" valign="top">
+
+### 🍕 Pizza Hut Sales Analysis (SQL)
+[![Repo](https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/pizza-hut-sales-analysis)
+
+**Stack:** `SQL` `MySQL` `Window Functions` `JOINs`
+
+- 🗄️ Queried 4 relational tables with advanced SQL
+- 🏆 Top products by revenue, volume & margin
+- 🕐 Peak order hours & day-of-week patterns
+- 📈 Rolling revenue trends with window functions
+- 🎯 Business insights for ops & marketing strategy
+
+</td>
+</tr>
+</table>
 
 ---
-### 📊 Superstore Sales Dashboard
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/Zomato-Restaurant-Analytics-Dashboard-Power-Bi)
-
-**Tech:** Power BI • DAX • Power Query • Excel
-
-✅ Built an interactive Business Intelligence Dashboard  
-✅ Created KPI cards for Sales, Profit, Orders & Quantity  
-✅ Designed dynamic filters & slicers  
-✅ Applied DAX calculations and Power Query transformations  
-✅ Analyzed category-wise and regional performance  
-✅ Generated actionable business insights  
-
----
-### 📦 Courier Billing Audit & Logistics Cost Analysis Dashboard
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/tapas-tech29/Courier-Billing-Audit-Logistics-Cost-Analysis-Dashboard)
-
-**Tech:** Power BI • DAX • Power Query • Excel
-
-✅ Interactive Power BI Dashboard
-✅ Courier Invoice Billing Analysis
-✅ Overcharged vs Undercharged Detection
-✅ Delivery Zone Performance Insights
-✅ Logistics Cost Optimization
-
----
-### 📋 Loan Approval Analysis Dashboard
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/loan-approval-analysis)
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Power BI
-
-✅ End-to-end EDA & data cleaning  
-✅ Handled missing values, outliers & type conversions  
-✅ Interactive Power BI dashboard with KPI cards & slicers  
-✅ Statistical analysis to identify key credit approval drivers  
-
----
-
-### 🍕 Pizza Hut Sales Analysis
-[![Repo](https://img.shields.io/badge/View_Project-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tapas-tech29/pizza-hut-sales-analysis)
-
-**Tech:** SQL • MySQL • JOINs • Window Functions • Aggregations
-
-✅ Queried 4 relational tables with advanced SQL  
-✅ Used JOINs, GROUP BY, subqueries & window functions  
-✅ Uncovered top products, peak hours & ordering patterns  
-✅ Generated business insights for decision-making
-
----
-
 ## 📜 Certifications
 
 <div align="center">
