@@ -20,7 +20,7 @@
   </a>
   <a href="https://github.com/tapas-tech29">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <a href="https://tapas-tech29.github.io/" target="_blank">
+  <a href="https://tapas-tech29.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=tapas-tech29&style=for-the-badge&color=1F4E79&label=PROFILE+VIEWS" />
